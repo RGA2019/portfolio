@@ -1,3 +1,9 @@
 body {
     background: linear-gradient(to bottom,#1f1f1f,#2f2f2f);
 }
+
+body, textarea{
+    color:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
